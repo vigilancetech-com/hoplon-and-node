@@ -1,0 +1,11 @@
+{
+  "name": "hoplon-and-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vigilancetech-com/hoplon-and-node.git",
+  "author": "Kevin Haddock <support@vigilancetech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "2.8.2"
+  }
+}
